@@ -1,0 +1,57 @@
+site_name: FastAPI Admin CLI
+site_description: A Django-inspired CLI tool for managing FastAPI applications
+site_url: https://fastapi-admin-cli.readthedocs.io
+repo_url: https://github.com/amal-babu-git/fastapi-admin-cli
+repo_name: amal-babu-git/fastapi-admin-cli
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Installation: getting-started/installation.md
+    - Quick Start: getting-started/quickstart.md
+  - Reference:
+    - CLI Commands: reference/cli-commands.md
+    - Start Project: reference/startproject.md
+    - Start App: reference/startapp.md
+    - Docker: reference/docker.md
+    - DB Migrations: reference/db-migrations.md
+    - Create SuperUser and Admin Config: reference/createsuperuser.md
+  - Development:
+    - Contributing: development/contributing.md

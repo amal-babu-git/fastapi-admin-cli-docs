@@ -1,0 +1,1 @@
+doc for fastapi-admin-cli package
