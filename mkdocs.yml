@@ -47,7 +47,7 @@ nav:
     - Installation: getting-started/installation.md
     - Quick Start: getting-started/quickstart.md
   - Reference:
-    - CLI Commands: reference/cli-commands.md
+    # - CLI Commands: reference/cli-commands.md
     - Start Project: reference/startproject.md
     - Start App: reference/startapp.md
     - Docker: reference/docker.md
@@ -55,3 +55,6 @@ nav:
     - Create SuperUser and Admin Config: reference/createsuperuser.md
   - Development:
     - Contributing: development/contributing.md
+  - About Me:
+    - About Me: about-me/about-me.md
+      
