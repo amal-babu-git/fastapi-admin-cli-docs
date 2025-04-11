@@ -155,16 +155,12 @@ Options:
 Create admin user account.
 
 ```bash
-fastapi-admin createsuperuser <email> <password> [--first-name NAME] [--last-name NAME]
+fastapi-admin createsuperuser <email> <password>
 ```
 
 Arguments:
 - email: Admin email
 - password: Admin password
-
-Options:  
-- `--first-name` - First name
-- `--last-name` - Last name
 
 Creates superuser with:
 - Admin panel access

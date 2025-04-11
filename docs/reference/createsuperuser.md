@@ -17,23 +17,11 @@ This will create a new superuser with the given email and password.
 | email | Email address for the superuser | Yes |
 | password | Password for the superuser | Yes |
 
-## Options
-
-| Option | Description | Default |
-|--------|-------------|---------|
-| `--first-name` | First name of the superuser | None |
-| `--last-name` | Last name of the superuser | None |
-
 ## Example Commands
 
 Basic usage:
 ```bash
 fastapi-admin createsuperuser admin@example.com password123
-```
-
-With name details:
-```bash
-fastapi-admin createsuperuser admin@example.com password123 --first-name Admin --last-name User
 ```
 
 ## How It Works
