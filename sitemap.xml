@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/about-me/about-me/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/development/contributing/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/getting-started/installation/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/getting-started/quickstart/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/reference/cli-commands/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/reference/createsuperuser/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/reference/db-migrations/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/reference/docker/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/reference/startapp/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
     <url>
          <loc>https://fastapi-admin-cli.readthedocs.io/reference/startproject/</loc>
-         <lastmod>2025-04-10</lastmod>
+         <lastmod>2025-04-11</lastmod>
     </url>
 </urlset>
